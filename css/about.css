@@ -1,0 +1,30 @@
+@font-face{
+    src: url(../fonts/dosis-extralight-webfont.woff);
+    font-family: dosis-elt
+}
+@font-face{
+    src: url(../fonts/dosis-light-webfont.woff);
+    font-family: dosis-lt
+}
+@font-face{
+    src: url(../fonts/dosis-medium-webfont.woff);
+    font-family: dosis-m
+}
+@font-face{
+    src: url(../fonts/dosis-semibold-webfont.woff);
+    font-family: dosis-sb
+}
+@font-face{
+    src: url(../fonts/technicalroundedvp-thinoblique-webfont.woff);
+    font-family: tech
+}
+
+.nav-link{
+    font-family: dosis-m;
+    
+}
+
+p{
+    font-family: dosis-m;
+    font-size: 20px;
+}
